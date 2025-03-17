@@ -1,7 +1,7 @@
 package liasantomil;
 
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.*
+import static org.junit.jupiter.api.Assertions.*;
 
 public class CuentaBancariaTest{
 
@@ -16,7 +16,7 @@ public class CuentaBancariaTest{
     /*getSaldo*/
     @Test
     void testGetSaldo() {
-        CuentaBancaria cuenta = newe CuentaBancaria ("Juan", 1000);
+        CuentaBancaria cuenta = new CuentaBancaria ("Juan", 1000);
         assertEquals("1000", cuenta.getSaldo());
     }
 
