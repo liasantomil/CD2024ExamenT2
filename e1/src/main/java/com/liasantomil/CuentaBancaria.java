@@ -1,4 +1,4 @@
-package liasantomil;
+package com.liasantomil;
 
 public class CuentaBancaria {
     private String titular;

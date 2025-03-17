@@ -1,4 +1,4 @@
-package main.java.liasantomil;
+package com.liasantomil;
 
 import java.util.ArrayList;
 import java.util.List;

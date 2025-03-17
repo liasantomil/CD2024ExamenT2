@@ -1,3 +1,9 @@
+package com.liasantomil;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
 public class ListaTareasTest {
 
     @Test

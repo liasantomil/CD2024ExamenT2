@@ -1,3 +1,5 @@
+package com.liasantomil;
+
 public class ArrayUtils {
     public static int encontrarMaximo(int[] array) {
         if (array.length == 0) {
